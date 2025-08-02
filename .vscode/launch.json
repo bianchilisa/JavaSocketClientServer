@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Esegui HelloServer",
+      "request": "launch",
+      "mainClass": "HelloServer"
+    },
+    {
+      "type": "java",
+      "name": "Esegui HelloClient",
+      "request": "launch",
+      "mainClass": "HelloClient"
+    }
+  ]
+}
